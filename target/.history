@@ -1,0 +1,17 @@
+run
+compile
+help
+                                          Lists the tasks defined for the current project.
+  settings                                       Lists the settings defined for the current project.
+  reload                                         (Re)loads the current project or changes to plugins project or returns from it.
+  new                                            Creates a new sbt build.
+run
+code
+sbt
+run
+code .
+code
+exit
+run
+git commit
+git config --global user.name kilian
